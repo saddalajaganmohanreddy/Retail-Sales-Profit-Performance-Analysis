@@ -3,13 +3,13 @@ Retail Sales & Profit Performance Analysis
 Project Overview
 This project analyzes retail sales performance using SQL and Power BI. The objective of this project is to identify important business insights related to sales, profit, and loss-making products across different regions and product categories. The dashboard helps understand overall business performance and supports data-driven decision making.
 
-Dashboard Preview
-
-![Dashboard](dashboard.png)
-
 Tools Used
 SQL – Data analysis and aggregation
 Power BI – Data visualization and dashboard creation
+
+Dashboard Preview
+
+![Dashboard](dashboard.png)
 
 Key Metrics
 Total Sales: 1.10M
