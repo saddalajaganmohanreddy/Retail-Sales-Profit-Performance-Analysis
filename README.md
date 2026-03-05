@@ -1,22 +1,22 @@
 Retail Sales & Profit Performance Analysis
 
-Project Overview
+Project Overview:
 
 This project analyzes retail sales performance using SQL and Power BI using the Superstore dataset. The objective of this project is to identify important business insights related to sales, profit, and loss-making products across different regions and product categories. The dashboard helps understand overall business performance and supports data-driven decision making.
 
 
-Tools Used
+Tools Used:
 
 SQL – Data analysis and aggregation  
 Power BI – Data visualization and dashboard creation  
 
 
-Dashboard Preview
+Dashboard Preview:
 
 ![Dashboard](dashboard.png)
 
 
-Key Metrics
+Key Metrics:
 
 Total Sales: 1.10M  
 
@@ -27,8 +27,8 @@ Profit Margin: 12.05%
 Loss Products Count: 529  
 
 
-Key Insights
-
+**Key Insights:
+**
 1. Technology category generates the highest revenue and profit.  
 Technology contributes the largest share of both sales and profit compared to other product categories.
 
