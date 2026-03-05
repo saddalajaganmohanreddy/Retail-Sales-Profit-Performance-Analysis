@@ -5,6 +5,7 @@ This project analyzes retail sales performance using SQL and Power BI. The objec
 
 Tools Used
 SQL – Data analysis and aggregation
+
 Power BI – Data visualization and dashboard creation
 
 Dashboard Preview
