@@ -75,6 +75,8 @@ Project Files:
 
 Retail_Sales_Dashboard.pbix – Power BI dashboard file  
 
+Superstore1.csv
+
 sales_analysis_queries.sql – SQL queries used for analysis  
 
 dashboard.png – Dashboard screenshot  
