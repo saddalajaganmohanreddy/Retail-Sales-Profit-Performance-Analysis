@@ -27,8 +27,8 @@ Profit Margin: 12.05%
 Loss Products Count: 529  
 
 
-**Key Insights:
-**
+Key Insights:
+
 1. Technology category generates the highest revenue and profit.  
 Technology contributes the largest share of both sales and profit compared to other product categories.
 
@@ -48,7 +48,7 @@ Monthly sales analysis shows variations in revenue and margin, indicating season
 A number of products consistently create losses, highlighting opportunities for cost optimization or pricing adjustments.
 
 
-SQL Analysis
+SQL Analysis:
 
 SQL queries were used to perform data aggregation and calculate key metrics before building the Power BI dashboard.
 
@@ -71,7 +71,7 @@ Loss-Making Products identification
 Top 5 Customers by Sales  
 
 
-Project Files
+Project Files:
 
 Retail_Sales_Dashboard.pbix – Power BI dashboard file  
 
